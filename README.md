@@ -1,21 +1,11 @@
-# simple-interest-calculator
-# Simple Interest Calculator
+# Final Project - Emotion Detector
 
-This project calculates simple interest using the formula:
+This project analyzes emotions in text using NLP.
 
-Simple Interest = (Principal × Rate × Time) / 100
-
-## Inputs:
-- Principal amount
-- Rate of interest
-- Time period
-
-## Output:
-- Simple Interest
-
-## Example:
-Principal = 1000  
-Rate = 5%  
-Time = 2 years  
-
-Simple Interest = (1000 × 5 × 2) / 100 = 100
+It detects:
+- anger
+- disgust
+- fear
+- joy
+- sadness
+- dominant emotion
